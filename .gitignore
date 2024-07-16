@@ -132,3 +132,7 @@ docs/**/modelzoo.md
 *.pth
 
 *.DS_Store
+
+climb_bert_output/
+example_bert_output/
+james_output/
